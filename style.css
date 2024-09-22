@@ -1,0 +1,51 @@
+body{
+    background-color: #898AFA;
+    font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
+   display: flex;
+   flex-direction: column;
+color: beige;
+   margin: 0;
+   padding: 0;
+}
+
+img {
+    width: 80px;
+    height: px;
+    border-radius: 50%; /* Cria um círculo perfeito */
+ margin-right: 10px; 
+}
+.nome {
+   margin-top: 1%;
+    display: flex;
+    align-items: left; /* Centraliza verticalmente o texto dentro da .nome */
+}    
+
+div{
+
+    border-style:inset;
+    margin: 1%;
+    border-color: rgb(207, 211, 214);
+   
+    }
+    
+footer{
+    margin-left: 1%;
+    padding: 5px;
+}
+
+li{
+ 
+ display: inline;
+ text-decoration: none;
+ padding:07px;   
+}
+.cor {
+    text-decoration: none;
+        color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    display: flexbox;
+    margin-left: 30%;
+    margin-right:30%;
+    text-align: center;
+}                                                               
